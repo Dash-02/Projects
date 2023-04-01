@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Starfield\Starfield\bin\Debug\Starfield.exe.config
+C:\Users\Admin\source\repos\Starfield\Starfield\bin\Debug\Starfield.exe
+C:\Users\Admin\source\repos\Starfield\Starfield\bin\Debug\Starfield.pdb
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.Form1.resources
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.Properties.Resources.resources
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.exe
+C:\Users\Admin\source\repos\Starfield\Starfield\obj\Debug\Starfield.pdb
